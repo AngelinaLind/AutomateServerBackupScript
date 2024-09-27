@@ -1,0 +1,8 @@
+2024-09-27 15:25:26,084 - INFO - Starting backup process
+2024-09-27 15:25:26,084 - INFO - Directories to back up: ['/Users/administrator/Desktop/ProjectBackup/photos', '/Users/administrator/Desktop/ProjectBackup/docs']
+2024-09-27 15:25:26,084 - INFO - Backup location: /Users/administrator/Desktop/ProjectBackup/backups
+2024-09-27 15:25:26,084 - INFO - Max backups to keep: 5
+2024-09-27 15:25:26,085 - INFO - Created backup folder: /Users/administrator/Desktop/ProjectBackup/backups/backup_20240927_152526
+2024-09-27 15:25:26,089 - INFO - Successfully backed up: /Users/administrator/Desktop/ProjectBackup/photos to /Users/administrator/Desktop/ProjectBackup/backups/backup_20240927_152526/photos
+2024-09-27 15:25:26,091 - INFO - Successfully backed up: /Users/administrator/Desktop/ProjectBackup/docs to /Users/administrator/Desktop/ProjectBackup/backups/backup_20240927_152526/docs
+2024-09-27 15:25:26,093 - INFO - Deleted old backup: backup_20240925_202824
