@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 import configparser
 import datetime
@@ -13,6 +15,13 @@ logging.basicConfig(
 
 # Step 2: Read the configuration file
 config = configparser.ConfigParser()
+config_path = '/Users/administrator/PycharmProjects/AutomateServerBackupScript/backup_config.ini'
+if not config.read(config_path):
+    print(f"Error: Could not read the configuration file at {config_path}")
+    exit(1)
+if not config.read('/Users/administrator/PycharmProjects/AutomateServerBackupScript/backup_config.ini'):
+    print("Error: Could not read the configuration file")
+    exit(1)
 config.read('backup_config.ini')
 
 # Step 3: Extract values from the config
