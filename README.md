@@ -1,7 +1,7 @@
 # Overview
 This guide explains how to set up and run the **Automated Server Backup Script** using Python. The script will back up specified directories to a designated backup location at scheduled intervals, ensuring your data is protected.
 
-# Requirements
+## Requirements
 - macOS operating system.
 - Python 3 installed on your machine.
 - Basic familiarity with the terminal (command line).
