@@ -1,0 +1,126 @@
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 21, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 21, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 21, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 21, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 21, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 21, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 21, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 21, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 23, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 23, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 23, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 23, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 23, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 23, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 23, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 23, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 23, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 23, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 23, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 23, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
+Traceback (most recent call last):
+  File "/Users/administrator/PycharmProjects/AutomateServerBackupScript/main.py", line 23, in <module>
+    backup_location = config['backup_settings']['backup_location']
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/configparser.py", line 963, in __getitem__
+    raise KeyError(key)
+KeyError: 'backup_settings'
